@@ -8,4 +8,11 @@ As someone who has personally been affected by cancer through a family member, i
 NETid: swh376
 GitHub User: Alograti
 
-I also have family and friends that are either in remission or are battling cancer currently. I believe that although the public may regard this as a small feat, that the implicaitons it could have are widespread. Increasing work time by 65% is a significant achievement, not to metion that the doctors would spend significatnly less time doing tedious work, and be able to treat more patients. What was more surprising was that the AI images were more highly rated, and easier to work off of. It is truly amazing to conceptualize that an algorithm could produce work that is above human capabilities. 
+I also have family and friends that are either in remission or are battling cancer currently. I believe that although the public may regard this as a small feat, that the implicaitons it could have are widespread. Increasing work time by 65% is a significant achievement, not to metion that the doctors would spend significatnly less time doing tedious work, and be able to treat more patients. What was more surprising was that the AI images were more highly rated, and easier to work off of. It is truly amazing to conceptualize that an algorithm could produce work that is above human capabilities.
+
+
+**Jiaming Li**
+
+NETid: jl10321
+
+Many of my family members and friends are doctors/ pre-med students. I've heard about how experts in AI have been trying to find ways to apply AI technologies to clinical fields for years. I'm glad to see how deep learning can help doctors be more productive. 
